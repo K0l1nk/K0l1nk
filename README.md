@@ -5,4 +5,4 @@
 * **NyugiPvP (http://ok.nyugipvp.cf/)**
 
 ## Contact
-- **Discord**: Kolink#9623
+- **Discord**: K0l1nk#9623
