@@ -1,8 +1,12 @@
 ### Hi there I'm Kolink 👋
 
 ## Projects
-* **My website (https://kolink.best/)**
-* **NyugiPvP (http://ok.nyugipvp.cf/)**
+* # INSOLENCE
+  **Web: (https://insolence.online/)**
+  
+  **Discord (https://dc.insolence.online/)**
+  
+  **Dashboard: (https://dash.insolence.online/)**
 
 ## Contact
-- **Discord**: K0l1nk#9623
+- **Discord**: k0l1nk
